@@ -1,17 +1,19 @@
 .fname{
-    text-align: center;
-    background-color: blue;
+ background-color: blue;
+     display: flex;
+     justify-content: center;
 }
 .firstname{
     display: flex;
    justify-content: center;
    justify-content: space-around;
+   
 }
 .secondname{
     display: flex;
     justify-content: center;
     justify-content: space-around;
 }
-.navbar bg-body-tertiary{
-    
+.fulldiv{
+     border: 1px solid grey;
 }
