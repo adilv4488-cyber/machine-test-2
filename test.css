@@ -1,0 +1,17 @@
+.fname{
+    text-align: center;
+    background-color: blue;
+}
+.firstname{
+    display: flex;
+   justify-content: center;
+   justify-content: space-around;
+}
+.secondname{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.navbar bg-body-tertiary{
+    
+}
